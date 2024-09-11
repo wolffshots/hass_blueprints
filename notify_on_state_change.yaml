@@ -20,12 +20,6 @@ blueprint:
 trigger:
   platform: state
   entity_id: !input state_entity
-    from: null
-    to: null
-    for:
-      hours: 0
-      minutes: 0
-      seconds: 5
       
 condition: []
 
