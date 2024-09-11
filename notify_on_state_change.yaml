@@ -2,7 +2,7 @@ blueprint:
   name: State change notifier
   description: Send a notification to a device when a state changes
   domain: automation
-  source_url: https://github.com/wolffshots/hass_blueprints/blob/main/notify_on_state_change.yaml
+  source_url: https://raw.githubusercontent.com/wolffshots/hass_blueprints/main/notify_on_state_change.yaml
   author: wolffshots
   input:
     state_entity:
